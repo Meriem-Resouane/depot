@@ -1,1 +1,1 @@
-print("Modification test")
+print("Bonjour, ESTC!")
